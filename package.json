@@ -1,0 +1,19 @@
+{
+  "name": "employee-summary",
+  "version": "1.0.0",
+  "description": "A web page that displays a team's basic info in order to access emails and GitHub profiles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makiwumi/Employee-Summary.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makiwumi/Employee-Summary/issues"
+  },
+  "homepage": "https://github.com/makiwumi/Employee-Summary#readme"
+}
